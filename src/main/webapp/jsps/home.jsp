@@ -35,6 +35,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		Bangalore,
 		+91-9980923226
 		devopstrainingblr@gmail.com
+		cloud and aws trainings
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
